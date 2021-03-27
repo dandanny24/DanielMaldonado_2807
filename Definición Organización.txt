@@ -1,0 +1,16 @@
+Definición de organización (orienetada a los centros de cómputo)
+
+Es la creación de una estructura, la cual determine las
+jerarquías necesarias y agrupación de actividades, con el fin de
+simplificar las mismas y sus funciones dentro del grupo social
+
+Definición propia
+
+Tomando como referencia la definición anterior, concluyo que la 
+organización, orientada a los centros de cómputo, determina las
+jerarquías o puestos que habrá en dicho centro, por ejemplo:
+Analistas, Gerente de procesos, Programadores, Capturista, por 
+mencionar algunos.
+Además, se decide quién o quienes tendrán acceso a cierto tipo de
+información, la información a la que tendrpas acceso dependerá de
+su rango o puesto dentro de la jerarquía antes establecida.
