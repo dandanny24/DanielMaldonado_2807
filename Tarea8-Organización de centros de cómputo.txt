@@ -1,0 +1,34 @@
+* Revisar los resultados de los procesos e incorporar acciones
+correctivas conforme a instrucciones de su superior inmediato.
+Monitorear y evaluar constantemente cada resultado obtenido y 
+ver qué se puede mejorar a la brevedad.
+
+*Realizar las copias de respaldo de la información y procesos de
+cómputo que se realizan en la dirección, conforme a parámetros 
+prestablecidos.
+Se debe realizar de forma periodica un respaldo de la todos los
+datos, estos respaldos pueden ser de manera física, digital o en
+algún servicio de nube.
+Con el tiempo se puede ir depurando información que nos deje de 
+ser útil pero tambien se recomienda llevar un registro de los 
+respaldos.
+
+*Llevar registros de fallas, problemas, soluciones, acciones 
+desarrolladas, respaldos, recuperaciones y trabajos realizados.
+Archivar o documentar cada inconveniente o situación que altere 
+algún proceso o trabajp, esto por si en un futuro se vuelve a 
+presentar el problema, ya conocer la solución.
+
+*Velar porque el sistema computarizado se mantenga funcionando
+apropiadamente.
+Tenemos que contar con personal que monitoree las 24 horas el
+sistema y que este operando de forma adecuada todo ese tiempo, 
+se puede tener 3 turnos para cubrir las horas y quien lo 
+supervise debe estar capacitado.
+
+*Realizar labores de mantenimiento y limpieza de los equipos del
+centro de cómputo.
+Periodicamente hay que darle servicio completo de limpieza a todo
+el sistema físico para evitar que los componentes no rindan de 
+forma óptima, evitar también que presente fallas y que no pare el
+sistema.
